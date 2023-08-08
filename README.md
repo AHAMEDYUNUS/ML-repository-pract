@@ -19,4 +19,4 @@ Here we using expert Imagenet models such as VGG16, VGG19, RESNET50, DENSENET121
 
 **step 6** : Evaluate the trained model with test data.
 
-**step**   : Make conclusions on predictions made by those models.
+**step7**  : Make conclusions on predictions made by those models.
